@@ -1,0 +1,1 @@
+Trying to understand and implement rag from scratch
